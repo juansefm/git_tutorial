@@ -1,6 +1,6 @@
 
 def add(x,y)
-  if (type(x)==int):
+  if (type(x)==int): #this is a random comment
     return x+y
   
 def mult(x,y)
